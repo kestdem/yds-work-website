@@ -1,0 +1,82 @@
+[
+  {
+    "word": "demonstrate",
+    "turkish": "göstermek, kanıtlamak",
+    "example": "The teacher demonstrated how to solve the equation.",
+    "synonyms": ["show", "prove", "illustrate"],
+    "antonyms": ["hide", "conceal"],
+    "level": 3
+  },
+  {
+    "word": "distribute",
+    "turkish": "dağıtmak, paylaştırmak",
+    "example": "They distribute food to homeless people.",
+    "synonyms": ["allocate", "dispense", "hand out"],
+    "antonyms": ["collect", "gather"],
+    "level": 3
+  },
+  {
+    "word": "eligible",
+    "turkish": "uygun, ehil",
+    "example": "You are eligible to vote at age 18.",
+    "synonyms": ["qualified", "suitable", "entitled"],
+    "antonyms": ["ineligible", "unqualified"],
+    "level": 4
+  },
+  {
+    "word": "enhance",
+    "turkish": "geliştirmek, artırmak",
+    "example": "Music can enhance your mood.",
+    "synonyms": ["improve", "boost", "augment"],
+    "antonyms": ["reduce", "diminish"],
+    "level": 4
+  },
+  {
+    "word": "establish",
+    "turkish": "kurmak, tesis etmek",
+    "example": "The university was established in 1850.",
+    "synonyms": ["found", "create", "set up"],
+    "antonyms": ["abolish", "destroy"],
+    "level": 3
+  },
+  {
+    "word": "exceed",
+    "turkish": "aşmak, geçmek",
+    "example": "The cost exceeded our budget.",
+    "synonyms": ["surpass", "outdo", "go beyond"],
+    "antonyms": ["fall short", "underwhelm"],
+    "level": 4
+  },
+  {
+    "word": "facilitate",
+    "turkish": "kolaylaştırmak",
+    "example": "Technology can facilitate communication.",
+    "synonyms": ["ease", "help", "assist"],
+    "antonyms": ["hinder", "obstruct"],
+    "level": 5
+  },
+  {
+    "word": "implement",
+    "turkish": "uygulamak, hayata geçirmek",
+    "example": "The company will implement new policies.",
+    "synonyms": ["execute", "carry out", "apply"],
+    "antonyms": ["abandon", "neglect"],
+    "level": 4
+  },
+  {
+    "word": "indicate",
+    "turkish": "belirtmek, göstermek",
+    "example": "The results indicate a positive trend.",
+    "synonyms": ["show", "suggest", "point to"],
+    "antonyms": ["conceal", "hide"],
+    "level": 3
+  },
+  {
+    "word": "initiate",
+    "turkish": "başlatmak",
+    "example": "They will initiate the project next month.",
+    "synonyms": ["begin", "start", "launch"],
+    "antonyms": ["terminate", "conclude"],
+    "level": 4
+  }
+]
